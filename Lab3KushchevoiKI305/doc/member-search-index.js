@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Lab3KushchevoiKI305","c":"Frigate","l":"Frigate()","u":"%3Cinit%3E()"},{"p":"Lab3KushchevoiKI305","c":"Frigate","l":"Frigate(int, int, int)","u":"%3Cinit%3E(int,int,int)"},{"p":"Lab3KushchevoiKI305","c":"Frigate","l":"info()"},{"p":"Lab3KushchevoiKI305","c":"Frigate","l":"raiseFlag()"}];updateSearchResults();
