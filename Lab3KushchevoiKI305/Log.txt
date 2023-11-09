@@ -1,0 +1,13 @@
+Engine started
+Speed = 30
+Rudder is turned left
+Rudder is turned right
+Rudder is aligned
+Flag is raised
+Shoot
+Engine stopped
+Information about the ship: 
+Weight of the sheep = 70000(kg)
+Height of the sheep = 350(m)
+Square of the sheep = 14000(m2)
+Type of ship = Frigate
